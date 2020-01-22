@@ -14,4 +14,7 @@
 5. Place the 'label.pbtxt' file into 'Label_Map' folder
 
 6. Run command: "python object_detection_Prediction.py" for prediction under activated environment
+7. Include folder--> object_detection/core
+                                      protos
+                                      utils
 
