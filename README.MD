@@ -11,7 +11,7 @@
    python setup.py build
    
    python setup.py install
-
+   
 4. Place the Trained '.pb' file in to 'Trained_File' folder 
 
 5. Place the 'label.pbtxt' file into 'Label_Map' folder
