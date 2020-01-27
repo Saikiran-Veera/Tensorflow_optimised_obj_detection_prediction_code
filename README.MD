@@ -3,7 +3,6 @@
 
 2. Activate environment
    conda activate Checkbox
-
 3.change the directory to "Tensorflow_Optimized_Prediction_Code" and run following command.
 
    pip install -r requirements.txt
