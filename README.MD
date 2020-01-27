@@ -6,7 +6,9 @@
 
 3.change the directory to "Tensorflow_Optimized_Prediction_Code" and run following command.
    pip install -r requirements.txt
+   
    python setup.py build
+   
    python setup.py install
 
 4. Place the Trained '.pb' file in to 'Trained_File' folder 
